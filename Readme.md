@@ -4,8 +4,6 @@
 
 Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da Udemy! Onde eu vou registrar meu **progresso, exercícios e aprendizados** do curso de programação. Aqui você encontrará notas, códigos de exemplo e status das atividades que estou realizando.
 
-Tenho como principais objetivos aprender a linguagem em um nível mediano, para conseguir desenvolver meu próprios projetos e conseguir chegar na área de desenvolvimento da atual empressa que estou atuando, além de usar o conhecimento para crecimento na carreira e ajudar as pessoas.
-
 ***
 
 ### 📌 Metas
@@ -37,6 +35,7 @@ Tenho como principais objetivos aprender a linguagem em um nível mediano, para 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/nicolashkiefer/CursoC-.git
+
 
 
 
