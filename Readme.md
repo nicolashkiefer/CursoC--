@@ -13,6 +13,8 @@ Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da
 - Manter registro de exercícios e desafios.
 - Acompanhar meu progresso ao longo do curso
 
+***
+
 ### 🏛️ Objetivos
 - Avançar na área de desenvolvimento da empresa em que atualmente atuo.
 - Usar o conhecimento adquirido para crescer na carreira e ajudar outras pessoas. 
@@ -35,6 +37,7 @@ Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da
 1. Clone o repositório:
 ```bash
 git clone https://github.com/nicolashkiefer/CursoC-.git
+
 
 
 
