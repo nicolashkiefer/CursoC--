@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Auala13\\Auala13.csproj",
-      "projectName": "Auala13",
-      "projectPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Auala13\\Auala13.csproj",
+      "projectUniqueName": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula13\\Aula13.csproj",
+      "projectName": "Aula13",
+      "projectPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula13\\Aula13.csproj",
       "packagesPath": "C:\\Users\\nicolas.kiefer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Auala13\\obj\\",
+      "outputPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicolas.kiefer\\AppData\\Roaming\\NuGet\\NuGet.Config"
