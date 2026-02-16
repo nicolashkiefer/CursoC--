@@ -61,7 +61,7 @@ namespace curso
 
             Console.ReadLine();
 
-            //Exemplo 4 Correto
+            //Exemplo 4 com Casting
 
             int a, b;
             double resultado;
@@ -73,13 +73,25 @@ namespace curso
 
             Console.WriteLine (resultado);
 
-            *///Exemplo 5
+            //Exemplo 5
 
             double a;
             int b;
 
             a = 5.0;
             b = a;
+            
+            Console.WriteLine(b);
+
+            Console.ReadLine();
+
+            *///Exemplo 5 com Casting
+
+            double a;
+            int b;
+
+            a = 5.0;
+            b = (int) a;
             
             Console.WriteLine(b);
 
