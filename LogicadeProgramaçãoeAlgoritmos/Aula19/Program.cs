@@ -7,15 +7,13 @@ namespace Curso
     {
         static void Main(String[] args)
         {
-            string n1 = Console.ReadLine();
             //Definindo uma variável, convertendo a valor recebido para o tipo da variável com <tipo>.Parse();
-            //string n1 = Console.ReadLine();
-            //string frase = Console.ReadLine();
-            /*
+            int n1 = int.Parse(Console.ReadLine());
             char ch = char.Parse(Console.ReadLine());
             double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
-            string[] vet = Console.ReadLine().Split(' '); //Criando um vetor e utilizando a função .Split(' '); para dividir as informações informadas em uma frase no String.
+            string[] vet = Console.ReadLine().Split(' '); //Criando um vetor e utilizando a função .Split(' '); para dividir as informações informadas em uma única String.
+            
             //Definindo o nome e tipo de uma variável, para receber um valor do vetor.
             string nome = vet[0];
             char sexo = char.Parse(vet[1]);
@@ -32,7 +30,7 @@ namespace Curso
             Console.WriteLine(idade);
             Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
 
-            Console.ReadLine();*/
+            Console.ReadLine();
         }
     }
 }
