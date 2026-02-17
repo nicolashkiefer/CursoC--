@@ -2,7 +2,7 @@
 
 ## Olá Pessoal!
 
-Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da Udemy! Onde eu vou registrar meu **progresso, exercícios e aprendizados** do curso de programação. Aqui você encontrará notas, códigos de exemplo e status das atividades que estou realizando.
+Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da Udemy! Onde eu vou registrar meu **progresso e aprendizados** do curso de programação. Aqui você vai encontrar exemplos de códigos, status das atividades e exercícios que vou realizar durante o curso.
 
 ***
 
@@ -37,3 +37,4 @@ Esse repositório é referente ao **Curos de C#** de Nélio Alves diretamente da
 1. Clone o repositório:
 ```bash
 git clone https://github.com/nicolashkiefer/CursoC-.git
+
