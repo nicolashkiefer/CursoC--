@@ -24,7 +24,7 @@ namespace Curso
 
             Console.WriteLine(nome);
             Console.WriteLine(quartos);
-            Console.WriteLine(preco);
+            Console.WriteLine(preco.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine(unome);
             Console.WriteLine(idade);
             Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
