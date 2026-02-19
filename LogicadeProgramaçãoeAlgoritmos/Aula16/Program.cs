@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace curso
+namespace Aula16
 {
     class Program
     {

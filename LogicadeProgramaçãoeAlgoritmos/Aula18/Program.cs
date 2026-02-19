@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Curso
+namespace Aula18
 {
     class Program
     {
