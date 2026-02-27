@@ -1,0 +1,15 @@
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\bin\Debug\net10.0\bee1004.exe
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\bin\Debug\net10.0\bee1004.deps.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\bin\Debug\net10.0\bee1004.runtimeconfig.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\bin\Debug\net10.0\bee1004.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\bin\Debug\net10.0\bee1004.pdb
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.AssemblyInfoInputs.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.AssemblyInfo.cs
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.sourcelink.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\refint\bee1004.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.pdb
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\bee1004.genruntimeconfig.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1004\obj\Debug\net10.0\ref\bee1004.dll
