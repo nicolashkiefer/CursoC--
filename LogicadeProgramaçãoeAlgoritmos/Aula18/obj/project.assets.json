@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicol\\.nuget\\packages\\": {}
+    "C:\\Users\\nicolas.kiefer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicol\\Documents\\CURSOS\\Udemy\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\Aula18.csproj",
+      "projectUniqueName": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\Aula18.csproj",
       "projectName": "Aula18",
-      "projectPath": "C:\\Users\\nicol\\Documents\\CURSOS\\Udemy\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\Aula18.csproj",
-      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicol\\Documents\\CURSOS\\Udemy\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\obj\\",
+      "projectPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\Aula18.csproj",
+      "packagesPath": "C:\\Users\\nicolas.kiefer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicolas.kiefer\\Documents\\Projetos\\CursoC--\\LogicadeProgramaçãoeAlgoritmos\\Aula18\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nicolas.kiefer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
