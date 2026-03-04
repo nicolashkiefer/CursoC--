@@ -1,0 +1,15 @@
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\bin\Debug\net10.0\bee1017.exe
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\bin\Debug\net10.0\bee1017.deps.json
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\bin\Debug\net10.0\bee1017.runtimeconfig.json
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\bin\Debug\net10.0\bee1017.dll
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\bin\Debug\net10.0\bee1017.pdb
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.AssemblyInfoInputs.cache
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.AssemblyInfo.cs
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.sourcelink.json
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.dll
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\refint\bee1017.dll
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.pdb
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\bee1017.genruntimeconfig.cache
+C:\Users\nicol\Documents\CURSOS\Udemy\CursoC--\LogicadeProgramaçãoeAlgoritmos\ExerciciosPropostos\bee1017\obj\Debug\net10.0\ref\bee1017.dll
