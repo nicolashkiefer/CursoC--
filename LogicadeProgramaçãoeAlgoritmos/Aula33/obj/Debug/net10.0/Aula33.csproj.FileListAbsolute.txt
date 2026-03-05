@@ -1,0 +1,15 @@
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.AssemblyInfoInputs.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.AssemblyInfo.cs
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.sourcelink.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\bin\Debug\net10.0\Aula33.exe
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\bin\Debug\net10.0\Aula33.deps.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\bin\Debug\net10.0\Aula33.runtimeconfig.json
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\bin\Debug\net10.0\Aula33.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\bin\Debug\net10.0\Aula33.pdb
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\refint\Aula33.dll
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.pdb
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\Aula33.genruntimeconfig.cache
+C:\Users\nicolas.kiefer\Documents\Projetos\CursoC--\LogicadeProgramaçãoeAlgoritmos\Aula33\obj\Debug\net10.0\ref\Aula33.dll
